@@ -33,13 +33,13 @@ python  main.py
 ## Project Description 
 
 ### Bookshelf
-![Bookshelf]()
+![Bookshelf](https://github.com/Soojin-Lee0819/Journal_Nook/blob/main/images/bookshelf.png)
 
 ### Home
-![Home]([https://github.com/Soojin-Lee0819/Journal_Nook/tree/main/images/home.png](https://github.com/Soojin-Lee0819/Journal_Nook/blob/main/images/home.png))
+![Home](https://github.com/Soojin-Lee0819/Journal_Nook/blob/main/images/home.png)
 
 ### Poem
-![Poem](https://github.com/Soojin-Lee0819/Journal_Nook/tree/main/images/poem.png)
+![Poem](https://github.com/Soojin-Lee0819/Journal_Nook/blob/main/images/poem.png)
 
 
 
